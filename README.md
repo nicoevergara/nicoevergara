@@ -11,18 +11,17 @@ I have experience working as a Software Engineering Manager and as a Senior Soft
 
 ## What I can do
 
-### Web Technologies
-- TypeScript
-- JavaScript
+### Technologies
+- TypeScript / JavaScript
 - Node
-- HTML, CSS
-- Python
 - Rust
-- PostgreSQL
-- MongoDB
-- DynamoDB
+- Golang
+- Python
+- Nix
 - AWS
 - Terraform
+- PostgreSQL
+- NoSQL Databases
 
 ### Languages I speak
 - English (Native)
