@@ -31,7 +31,7 @@ I have experience working as as software engineering manager and as an experienc
 ### Languages I speak
 - English (Native)
 - Spanish (B2/C1)
-- Turkish (A1)
+- Turkish (A2)
 
 ### Things I'm digging into
 - Learning Turkish
